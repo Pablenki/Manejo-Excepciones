@@ -1,0 +1,7 @@
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\bin\Debug\Manejo-Excepciones T3.exe.config
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\bin\Debug\Manejo-Excepciones T3.exe
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\bin\Debug\Manejo-Excepciones T3.pdb
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\obj\Debug\Manejo-Excepciones T3.csproj.AssemblyReference.cache
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\obj\Debug\Manejo-Excepciones T3.csproj.CoreCompileInputs.cache
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\obj\Debug\Manejo-Excepciones T3.exe
+C:\Users\luisp\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones T3\Manejo-Excepciones T3\obj\Debug\Manejo-Excepciones T3.pdb
